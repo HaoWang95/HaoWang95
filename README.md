@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HaoWang95
 - 👀 I’m interested in coding, basketball, and astronomy
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m currently doing self-learning extensively.
 - 💞️ I’m looking to collaborate on ...
 
 <!---
